@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """캐시 생성 (raw, mask)"""
-import os, re, json, sys
+import os, re, json
 import numpy as np, cv2, tifffile
 
 from config import BASE
